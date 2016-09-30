@@ -1,5 +1,5 @@
 {
-  "name": "EpiCade",
+  "name": "ApiEpiCade",
   "private": true,
   "version": "0.0.0",
   "description": "a Sails application",
@@ -30,7 +30,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/deschodt/EpiCade.git"
+    "url": "git://github.com/deschodt/ApiEpiCade.git"
   },
   "author": "deschodt",
   "license": ""
