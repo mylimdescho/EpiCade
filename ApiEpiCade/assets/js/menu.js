@@ -19,7 +19,7 @@
       var geometry = new THREE.CubeGeometry( 50, 10, 10);
       //var material = new THREE.MeshPhongMaterial( { ambient: 0x050505, color: 0x0033ff, specular: 0x555555, shininess: 30 } );
 
-      var material = new THREE.MeshPhongMaterial( { map: THREE.ImageUtils.loadTexture('Gridround.png') } )
+      var material = new THREE.MeshPhongMaterial( { map: THREE.ImageUtils.loadTexture('images/Gridround.png') } )
       mesh = new THREE.Mesh(geometry, material );
       mesh.position.z = -50;
       mesh.position.x = -25;
